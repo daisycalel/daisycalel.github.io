@@ -6,8 +6,8 @@
 
 ## Favorite CPSC120L Labs
 
-### Lab 
+### Lab 5
 
-### Lab
+### Lab 6
 
-### Lab
+### Lab 8
