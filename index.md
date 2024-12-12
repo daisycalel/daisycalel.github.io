@@ -2,7 +2,7 @@
 # Daisy Martinez's Portfolio
 
 > I am a <span style="color:blue">computer science major</span> at <span style="color:orange">CSUF</span> and *plan* to graduate in **2028**.
-My GitHub page is http://github.com/daisycalel.
+My GitHub page is [linked here](http://github.com/daisycalel).
 
 
 ## Favorite CPSC120L Labs
