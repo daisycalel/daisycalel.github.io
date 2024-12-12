@@ -1,7 +1,7 @@
 
 # Daisy Martinez's Portfolio
 
-> I am a <span style="color:green">computer science</span> major at CSUF and *plan* to graduate in **2028**.
+> I am a <span style="color:blue">computer science major</span> at <span style="color:orange">CSUF</span> and *plan* to graduate in **2028**.
 My GitHub page is http://github.com/daisycalel.
 
 
@@ -14,8 +14,8 @@ the works we did that required user input to be fun. I found this one the most f
 because it had many parts to it. I found it enjoyable how this lab also allowed to
 combine a lot of what we had learned such as if else statements, writing functions, 
 using static cast and working in seperate tabs for our main code and the functions.
-### Lab 6
 
+### Lab 6
 > Lab 6, both parts was another one of my favorites. I enjoyed working with my 
 partner on this one because it was fun to make the sandwhich code. Part two which
 had us code the blackjack game was one of my favorites because it allowed me to
